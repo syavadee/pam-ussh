@@ -1,3 +1,7 @@
+pam-ussh (1.0.2) all; urgency=low
+
+  * fix build for Ubuntu 22.04
+
 pam-ussh (1.0.1) all; urgency=low
 
   * fix security issue reported by Solar Designer.
